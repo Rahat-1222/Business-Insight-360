@@ -20,3 +20,24 @@ These dashboards will allow the company to closely monitor performance across al
 **4 .**   **Supply Chain** - Monitors supply chain efficiency with key metrics such as forecast accuracy, inventory levels, and net errors.
 
 **5 .**  **Executive View** - Provides leadership with a clear picture of overall organizational performance.
+
+
+## 🔎 Tools and Techniques 
+✔ **Power BI:** Served as the primary tool for developing interactive dashboards and visualizations.
+
+✔ **SQL:** Data retrieval and exploration from a MySQL database.
+
+✔ **Excel:** My handy assistant for managing extra data and keeping track of everything.
+
+✔ **DAX (Data Analysis Expressions):** Employed within Power BI to create complex calculations and measures.
+
+✔ **Power Query:** Used to clean, transform, and load data from various sources into Power BI and Excel.
+
+✔ **Conditional Formatting:** Applied within Power BI and Excel to highlight key data points and trends.
+
+
+
+
+
+-----------Thank you for reading about the AtliQ Hardware Business Insight Dashboard project. We hope this documentation provides valuable insights into the tools and methodologies used to achieve our objectives-------🏁
+
